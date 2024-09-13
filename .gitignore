@@ -1,0 +1,7 @@
+# Ignore everything inside the ./data folder
+/data/*
+
+# Allow the data folder itself
+!/data/
+
+*.swp
